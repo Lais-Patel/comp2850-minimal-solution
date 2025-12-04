@@ -22,3 +22,27 @@ Debrief notes:
 - Highlight filtered tasks
 - Make difference between edit and delete buttons more clear
 - Deletion confirmation worked well
+
+Session: Pilot 2 (Idon Mined)
+Date: 2025-12-04
+Variant: Keyboard, JS-on
+
+**Before starting**:
+- Purpose explained (evaluate task manager, not testing you)
+- Tasks described (4 scenarios, ~15 minutes)
+- Data collected listed (times, clicks, observations - no PII)
+- Right to withdraw explained (stop anytime, data deleted)
+- Participant verbally consents
+
+[ X ] - Pilot consents to all above
+
+| 08.84s | T1 | "Selection colours could be clearer" | 8 | "Selection colours could be clearer" | 8 |
+| 09.88s | T2 | "Good" | 9 | "Confirmation message could be clearer" | 6 |
+| 20.19s | T3 | "Highlight buttons hard to see" | 5 | "Highlighing buttons not very clear" | 9 |
+| 05.56s | T4 | "Worked fine" | 8 | "Not really, just the same thing" | 9 |
+
+Debrief notes:
+- Highlights hard to see
+- Hard to navigate with keyboard
+- More contrasting colours
+
