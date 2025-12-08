@@ -215,6 +215,16 @@ select:focus {
   font-size: 0.875rem;
 }
 
+.task-view form button[aria-label^="Delete"] {
+  background-color: #d32f2f !important;
+  border: 1px solid #c62828 !important;
+}
+
+.task-view form button[aria-label^="Delete"]:hover {
+  background-color: #b71c1c !important;
+  border-color: #b71c1c !important;
+}
+
 /* ========================================
    Responsive Design
    ======================================== */
