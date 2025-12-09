@@ -89,18 +89,42 @@ Debrief notes:
 
 Metrics:
 ts_iso,session_id,request_id,task_code,step,outcome,ms,http_status,js_mode
-2025-12-08T14:19:00.947727928Z,P3_b4j8,r_7f50113c,T0_list,success,,20,200,off
-2025-12-08T14:19:03.467183506Z,P3_b4j8,r_544d653f,T4_delete,success,,6,200,off
-2025-12-08T14:19:03.482225449Z,P3_b4j8,r_6db16d9a,T0_list,success,,12,200,off
-2025-12-08T14:21:27.781724685Z,P3_b4j8,r_f975a8f7,T3_add,success,,5,200,off
-2025-12-08T14:21:27.807705719Z,P3_b4j8,r_fbd0c82c,T0_list,success,,23,200,off
-2025-12-08T14:22:31.788584373Z,P3_b4j8,r_378c00e5,T0_list,success,,16,200,off
-2025-12-08T14:22:35.019435763Z,P3_b4j8,r_e74658d7,T0_list,success,,12,200,off
-2025-12-08T14:22:37.182662713Z,P3_b4j8,r_8c297b83,T0_list,success,,15,200,off
-2025-12-08T14:22:39.053594992Z,P3_b4j8,r_36396ffc,T0_list,success,,15,200,off
-2025-12-08T14:22:40.730818620Z,P3_b4j8,r_393d3f29,T0_list,success,,12,200,off
-2025-12-08T14:22:42.584688775Z,P3_b4j8,r_b15b8e50,T0_list,success,,34,200,off
-2025-12-08T14:23:40.810263719Z,P3_b4j8,r_89d4814e,T4_delete,success,,7,200,off
-2025-12-08T14:23:40.830505238Z,P3_b4j8,r_f5f020bd,T0_list,success,,17,200,off
-2025-12-08T14:23:49.802365688Z,P3_b4j8,r_89813507,T4_delete,success,,7,200,off
-2025-12-08T14:23:49.815437397Z,P3_b4j8,r_83cbfd09,T0_list,success,,11,200,off
+2025-12-08T14:19:00.947727928Z,Pilot_3,r_7f50113c,T0_list,success,,20,200,off
+2025-12-08T14:19:03.467183506Z,Pilot_3,r_544d653f,T4_delete,success,,6,200,off
+2025-12-08T14:19:03.482225449Z,Pilot_3,r_6db16d9a,T0_list,success,,12,200,off
+2025-12-08T14:21:27.781724685Z,Pilot_3,r_f975a8f7,T3_add,success,,5,200,off
+2025-12-08T14:21:27.807705719Z,Pilot_3,r_fbd0c82c,T0_list,success,,23,200,off
+2025-12-08T14:22:31.788584373Z,Pilot_3,r_378c00e5,T0_list,success,,16,200,off
+2025-12-08T14:22:35.019435763Z,Pilot_3,r_e74658d7,T0_list,success,,12,200,off
+2025-12-08T14:22:37.182662713Z,Pilot_3,r_8c297b83,T0_list,success,,15,200,off
+2025-12-08T14:22:39.053594992Z,Pilot_3,r_36396ffc,T0_list,success,,15,200,off
+2025-12-08T14:22:40.730818620Z,Pilot_3,r_393d3f29,T0_list,success,,12,200,off
+2025-12-08T14:22:42.584688775Z,Pilot_3,r_b15b8e50,T0_list,success,,34,200,off
+2025-12-08T14:23:40.810263719Z,Pilot_3,r_89d4814e,T4_delete,success,,7,200,off
+2025-12-08T14:23:40.830505238Z,Pilot_3,r_f5f020bd,T0_list,success,,17,200,off
+2025-12-08T14:23:49.802365688Z,Pilot_3,r_89813507,T4_delete,success,,7,200,off
+2025-12-08T14:23:49.815437397Z,Pilot_3,r_83cbfd09,T0_list,success,,11,200,off
+
+Session: Pilot 1 (Jack Sparrow)
+Date: 2025-12-09
+Variant: Mouse, JS-on
+
+**Before starting**:
+- Purpose explained (evaluate task manager, not testing you)
+- Tasks described (4 scenarios, ~15 minutes)
+- Data collected listed (times, clicks, observations - no PII)
+- Right to withdraw explained (stop anytime, data deleted)
+- Participant verbally consents
+
+[ X ] - Pilot consents to all above
+
+| .s | T1 | "" |  | "" |  |
+| .s | T2 | "" |  | "" |  |
+| .s | T3 | "" |  | "" |  |
+| .s | T4 | "" |  | "" |  |
+
+Debrief notes:
+- 
+
+Metrics:
+ts_iso,session_id,request_id,task_code,step,outcome,ms,http_status,js_mode
