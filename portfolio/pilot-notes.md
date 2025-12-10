@@ -105,9 +105,9 @@ ts_iso,session_id,request_id,task_code,step,outcome,ms,http_status,js_mode
 2025-12-08T14:23:49.802365688Z,Pilot_3,r_89813507,T4_delete,success,,7,200,off
 2025-12-08T14:23:49.815437397Z,Pilot_3,r_83cbfd09,T0_list,success,,11,200,off
 
-Session: Pilot 1 (Jack Sparrow)
-Date: 2025-12-09
-Variant: Mouse, JS-on
+Session: Pilot 2 (Idon Mined)
+Date: 2025-12-10
+Variant: Keyboard, JS-on
 
 **Before starting**:
 - Purpose explained (evaluate task manager, not testing you)
@@ -118,13 +118,24 @@ Variant: Mouse, JS-on
 
 [ X ] - Pilot consents to all above
 
-| .s | T1 | "" |  | "" |  |
-| .s | T2 | "" |  | "" |  |
-| .s | T3 | "" |  | "" |  |
-| .s | T4 | "" |  | "" |  |
+| 07.97s | T1 | "highlighting was clear, delete button was clear" | 8 | "zilch" | 1 |
+| 10.14s | T2 | "status message clear" | 8 | "non" | 1 |
+| 17.26s | T3 | "edit button worked well" | 7 | "my spelling" | 2 |
+| 02.57s | T4 | "was fine" | 6 | "no issue" | 1 |
 
 Debrief notes:
-- 
+- Pilot can't spell
+- Pilot found new colouring on buttons to be helpful and clear
+- Pilot found status message styling to be useful
 
 Metrics:
 ts_iso,session_id,request_id,task_code,step,outcome,ms,http_status,js_mode
+2025-12-10T13:29:14.616545990Z,Pilot_2,r_427a81fa,T1_filter,success,,16,200,on
+2025-12-10T13:29:14.940117535Z,Pilot_2,r_b9b7faf3,T1_filter,success,,11,200,on
+2025-12-10T13:29:15.503449519Z,Pilot_2,r_ce3ff2a2,T1_filter,success,,7,200,on
+2025-12-10T13:29:15.991706839Z,Pilot_2,r_0627d88f,T1_filter,success,,8,200,on
+2025-12-10T13:29:16.391178134Z,Pilot_2,r_391b0f16,T1_filter,success,,9,200,on
+2025-12-10T13:29:19.042491457Z,Pilot_2,r_a5790216,T4_delete,success,,7,200,on
+2025-12-10T13:30:50.849094188Z,Pilot_2,r_71074e21,T1_filter,success,,14,200,on
+2025-12-10T13:31:22.783692761Z,Pilot_2,r_2207a7e0,T3_add,success,,22,200,on
+2025-12-10T13:35:09.406480176Z,Pilot_2,r_d32b0bfb,T4_delete,success,,8,200,on
