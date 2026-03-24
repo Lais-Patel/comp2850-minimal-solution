@@ -12,7 +12,7 @@
         hx-delete="/tasks/{{ task.id }}"
         hx-target="#task-{{ task.id }}"
         hx-swap="outerHTML"
-        hx-confirm="Delete the task '{{ task.title }}'?">
-    <button type="submit" aria-label="Delete task: {{ task.title }}">Delete</button>
+        hx-confirm="Reserve the book '{{ task.title }}'?">
+    <button type="submit" aria-label="Delete task: {{ task.title }}">Reserve</button>
   </form>
 </li>
